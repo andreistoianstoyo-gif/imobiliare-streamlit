@@ -19,3 +19,4 @@ What happens next?
 1. Streamlit will launch a local server.
 2. A page will automatically open in your browser (usually at http://localhost:8501).
 3. You will see interactive charts where you can hover over data points to view details or zoom in.
+Test live app https://nt6rsrccey4fblnunepcxn.streamlit.app/

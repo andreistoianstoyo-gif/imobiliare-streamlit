@@ -1,4 +1,4 @@
-Steps to run the application
+Steps to run the application(ONLY for backend verification)
 
 !!YOU MUST HAVE PYTHON INSTALLED!!
 

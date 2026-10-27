@@ -18,7 +18,7 @@ def load_file(file):
 
 @st.cache_data
 def load_demo():
-    return pd.read_csv("housing.csv")
+    return pd.read_csv("housing_demo.csv")
 
 
 uploaded = st.file_uploader("Upload your file (CSV or Excel)", type=["csv", "xlsx"])
